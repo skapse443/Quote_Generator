@@ -1,0 +1,24 @@
+body{
+	background-color: black;
+
+}
+#container{
+	background-color: #0E2431;
+	border: 5px solid #f5e4C3;
+	height: 275px;
+	width: 750px;
+	margin: 0 auto;
+	text-align: center;
+}
+#btn{
+	margin: 70px auto;
+	height: 50px;
+	width:250px;
+	font-size: 27px;
+	background-color: rgb(192, 191,191);
+}
+#output{
+	margin: 30px auto;
+	font-size: 25px;
+	color: white;
+}
